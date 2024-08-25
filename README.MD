@@ -1,1 +1,1 @@
-roles folder ---> webtier folder or app tier folder or db tier folder ---> tasks folder ---> 
+roles folder ---> webtier folder or app tier folder or db tier folder ---> tasks folder ---> main.yaml
