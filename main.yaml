@@ -1,0 +1,4 @@
+- name: " install {{component}}"
+  hosts: "{{compoent}}"
+  roles:
+  - "{{component}}"
