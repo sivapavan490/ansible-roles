@@ -6,4 +6,9 @@
 - name: app-setup
   ansible.builtin.import_role:
     name: common
-    tasks_from: modejs
+    tasks_from: nodejs
+
+- name: mongodb-setup
+  ansible.builtin.import_role:
+    name: common
+    tasks_from: mongodb-setup
